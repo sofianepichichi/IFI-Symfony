@@ -141,7 +141,7 @@ class Article
      *
      * @param string $corpus
      *
-     * @return Article
+     * @return datetime
      */
     public function setCorpus($corpus)
     {
@@ -153,7 +153,7 @@ class Article
     /**
      * Get corpus
      *
-     * @return DateTime
+     * @return datetime
      */
     public function getCorpus()
     {
