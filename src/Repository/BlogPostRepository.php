@@ -22,7 +22,7 @@ class BlogPostRepository extends ServiceEntityRepository
     // /**
     //  * @return BlogPost[] Returns an array of BlogPost objects
     //  */
-    /*
+
     public function findByExampleField($value)
     {
         return $this->createQueryBuilder('b')
@@ -34,9 +34,9 @@ class BlogPostRepository extends ServiceEntityRepository
             ->getResult()
         ;
     }
-    */
 
-    /*
+
+
     public function findOneBySomeField($value): ?BlogPost
     {
         return $this->createQueryBuilder('b')
@@ -46,5 +46,5 @@ class BlogPostRepository extends ServiceEntityRepository
             ->getOneOrNullResult()
         ;
     }
-    */
+
 }
