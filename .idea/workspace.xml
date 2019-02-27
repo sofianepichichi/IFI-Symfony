@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f62943-a22c-4d6c-8ba9-506953362642" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/BlogController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Article.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/BlogPost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/ArticleRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/ArticleRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/BlogPostRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/BlogPostRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/create-article.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/create-article.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/index.html.twig" afterDir="false" />
-    </list>
+    <list default="true" id="b2f62943-a22c-4d6c-8ba9-506953362642" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,7 +32,7 @@
     <session id="399008100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.129" value="1" />
           <entry key="project.open.time.13" value="2" />
@@ -164,7 +146,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Repository/BlogPostRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="765">
               <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
             </state>
           </provider>
@@ -374,61 +356,6 @@
               <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -471,12 +398,12 @@
       <workItem from="1550945797036" duration="5983000" />
       <workItem from="1551012519325" duration="1150000" />
       <workItem from="1551013727054" duration="17644000" />
-      <workItem from="1551126458571" duration="12284000" />
+      <workItem from="1551126458571" duration="12438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37470000" />
+    <option name="totallyTimeSpent" value="37624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,7 +416,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.2624811" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.2549168" />
@@ -689,7 +615,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Repository/BlogPostRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
+        <state relative-caret-position="765">
           <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
         </state>
       </provider>
